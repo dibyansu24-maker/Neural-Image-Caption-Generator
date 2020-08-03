@@ -1,4 +1,4 @@
-# Neural-Image-Caption-Generator
+# Neural Image Caption Generator
 
 ## Abstract
 
