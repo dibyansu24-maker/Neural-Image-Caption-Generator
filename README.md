@@ -16,6 +16,7 @@ Keywords: NLP,Vision,CNN,RNN,LSTM
 * Results
 * Scope of Further Improvements
 * References
+### **NOTE:** We could not provide the Glove file in the repo, you can download it from [here](https://www.kaggle.com/mrugankakarte/glove-6b-200d-pretrained-word-vectors/download)
 
 ## Introduction
 
